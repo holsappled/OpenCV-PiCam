@@ -1,9 +1,9 @@
 # OpenCV-PiCam
 Using OpenCV with Raspberry Pi 3 utilizing PiCamera Kuman model #SC09-US
 
+https://www.pyimagesearch.com/2015/02/23/install-opencv-and-python-on-your-raspberry-pi-2-and-b/
 
-
-
+https://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/
 
 
 
